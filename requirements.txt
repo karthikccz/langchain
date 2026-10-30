@@ -1,0 +1,33 @@
+#langchain -- core
+langchain
+langchain-core
+
+#openai -- intregration
+openai
+langchain-openai
+
+#anthropic -- integration
+langchain-anthropic 
+
+#google -- integration
+langchain-google-genai
+google-generativeai
+#https://aistudio.google.com/api-keys?utm_source=chatgpt.com&project=gen-lang-client-0493679756
+
+
+#HuggingFace -- integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+#Grok -- integration
+langchain-groq
+#https://console.groq.com/keys?utm_source=chatgpt.com
+
+#Environment variables
+python-dotenv
+
+#meachine learning
+scikit-learn
+numpy
+langchain-community

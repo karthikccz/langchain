@@ -1,0 +1,18 @@
+
+chapters_data = {
+    "photosynthesis": """
+        Photosynthesis is the process by which green plants convert sunlight,
+        water, and carbon dioxide into glucose and oxygen. It occurs mainly
+        in the chloroplasts of plant cells, using a pigment called chlorophyll.
+        The process has two main stages: the light-dependent reactions
+        (which occur in the thylakoid membrane) and the light-independent
+        reactions, also called the Calvin cycle (which occur in the stroma).
+    """,
+    "newtons_laws": """
+        Newton's three laws of motion describe the relationship between a body
+        and the forces acting upon it. The first law (inertia) states an object
+        stays at rest or in uniform motion unless acted on by a force. The second
+        law states force equals mass times acceleration (F=ma). The third law
+        states every action has an equal and opposite reaction.
+    """,
+}
